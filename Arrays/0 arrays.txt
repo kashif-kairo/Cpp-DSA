@@ -1,0 +1,7 @@
+Arrays is a type of list in which you can include the same items
+what is Arrays?
+why is Arrays?
+implementation
+indexing
+initialisation
+putting variable size in array is bad practise
